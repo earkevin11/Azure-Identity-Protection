@@ -24,6 +24,9 @@ Identity Protection can identify many types of risks, including:
 
 Creating the policies
 - When creating the policies, understand that it will be enforced based on the low-high risks.
+
+
+What can IT admins use Azure Identity Protection for?
 - IT admins can use these policies to include or exclude particular users or groups.
 - IT admins can also block or allow access but require MFA (Sign-In Risk)
 - IT admins can also block or allow access but a password change (User-Risk - Leaked credentials)
