@@ -22,6 +22,15 @@ Identity Protection can identify many types of risks, including:
 - - Leaked credentials (User risk)
 - and more.
 
+# Sign In Risk Level
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/188511146-68301336-f8f8-49f9-acd9-f900eb48c8aa.png" height="70%" width="70%" alt="AZ Active Directory"/>
+  
+<p/>
+
+
 Creating the policies
 - When creating the policies, understand that it will be enforced based on the low-high risks.
 
