@@ -37,8 +37,8 @@
 
 # What can IT admins use Azure Identity Protection for?
 - IT admins can use these policies to include or exclude particular users or groups.
-- IT admins can also block or allow access but require MFA (Sign-In Risk)
-- IT admins can also block or allow access but a password change (User-Risk - Leaked credentials)
+- IT admins can block or allow access but require MFA (Sign-In Risk)
+- IT admins can block or allow access but require a password change (User-Risk - Leaked credentials)
 
 # User-Risk (Leaked Credentials) - <em> Allow access but require a password change </em>
 <p align="center">
