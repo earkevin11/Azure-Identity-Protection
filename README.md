@@ -10,7 +10,7 @@ What does it do?
 - Export risk detection data to your SIEM.
 
 
-What does Identity Protection risk?
+How does Identity Protection risk?
 - It uses machine learning and heuristic systems to provide risk scores for 18 billion login attempts for over 800 million different accounts.
 
 Identity Protection can identify many types of risks, including:
