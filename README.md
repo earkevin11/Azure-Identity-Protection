@@ -1,6 +1,6 @@
 # Azure-Identity-Protection
 
-# What is the purpose of Azure Idenitity Protection>?
+# What is the purpose of Azure Idenitity Protection?
 - Try to understand malicious users who are trying to use user identity to access your accounts.
 
 # How does Identity Protection work?
