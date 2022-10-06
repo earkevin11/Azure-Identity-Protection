@@ -4,7 +4,7 @@ What is the purpose of Azure Idenitity Protection>?
 - Try to understand malicious users who are trying to use user identity to access your accounts.
 
 What does it do?
-- It uses the data that it has collected overtime from other microsoft services, it tries to understand what are the risks when a user signs onto a particular service.
+- It uses the data that it has collected overtime from other microsoft services and it tries to understand what are the risks when a user signs onto a particular service.
 - It can automate the detection of identity-based risks.
 - Investigate risks using data in the portal
 - Export risk detection data to your SIEM.
