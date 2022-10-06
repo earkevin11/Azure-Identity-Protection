@@ -56,4 +56,4 @@
 
 
 # Risk investigations
-- Admins can review detection and take manual action on them if needed. There are 3 key reports administrators will use for investifations in Identity Protection.
+- Admins can review detection and take manual action on them if needed. There are 3 key reports administrators will use for investigations in Identity Protection.
